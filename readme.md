@@ -30,4 +30,4 @@ HTML
 
 *I am too new to coding and am unaware of any licensing*
 
-Copyright (c) 2016 
+Copyright (c) 2016  CHRIS VP
